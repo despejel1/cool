@@ -5,3 +5,4 @@ Pack
 ---- smores
 ---- tent
 ---- bikini
+added camera in the fork
